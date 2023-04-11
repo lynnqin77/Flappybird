@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="gamewindow:jar">
+    <output-path>$PROJECT_DIR$/../Flappybird Game</output-path>
+    <root id="archive" name="gamewindow.jar">
+      <element id="module-output" name="gamewindow" />
+    </root>
+  </artifact>
+</component>
